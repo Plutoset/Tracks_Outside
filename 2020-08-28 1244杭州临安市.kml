@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document id="TbuluKmlVersion2">
+    <name>2020-08-28 12:44杭州临安市</name>
+    <description><![CDATA[]]>
+    </description>
+    <snippet><![CDATA[通过“两步路”生成，http://www.2bulu.com]]>
+    </snippet>
+    <author>Wingnes</author>
+    <ExtendedData>
+      <Data name="TrackId">
+        <value>15728687</value>
+      </Data>
+      <Data name="TrackTypeId">
+        <value>8</value>
+      </Data>
+      <Data name="TrackTags">
+        <value>爬山</value>
+      </Data>
+      <Data name="BeginTime">
+        <value>1598589876000</value>
+      </Data>
+      <Data name="EndTime">
+        <value>1598591806000</value>
+      </Data>
+      <Data name="TimeUsed">
+        <value>1930000</value>
+      </Data>
+      <Data name="PauseTime">
+        <value>155866</value>
+      </Data>
+      <Data name="PosStartName">
+        <value>西天目山风景区</value>
+      </Data>
+      <Data name="PosEndName">
+        <value>西天目山风景区</value>
+      </Data>
+      <Data name="ProductVersion">
+        <value>and_6.7.5</value>
+      </Data>
+      <Data name="StartDistrictId">
+        <value>7736</value>
+      </Data>
+      <Data name="EndDistrictId">
+        <value>7736</value>
+      </Data>
+      <Data name="CreaterId">
+        <value>29218633</value>
+      </Data>
+      <Data name="CreaterName">
+        <value>Wingnes</value>
+      </Data>
+      <Data name="CreaterIcon">
+        <value>353257015</value>
+      </Data>
+      <Data name="Privacy">
+        <value>0</value>
+      </Data>
+    </ExtendedData>
+    <Style id="TrackStyle_n">
+      <LineStyle>
+        <color>ee0000ff</color>
+        <width>5</width>
+      </LineStyle>
+      <IconStyle>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=BYohR0x5OLAr0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="TrackStyle_h">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>7</width>
+        <scale>1.1</scale>
+      </LineStyle>
+      <IconStyle>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=BYohR0x5OLAr0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="TrackStyle">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#TrackStyle_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#TrackStyle_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="LineStringStyle">
+      <LineStyle>
+        <color>dd5cba55</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Style id="startPointStyle">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=n%2BVE0NaFmzwndk%2BZ75NU9A%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="endPointStyle">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=0Q3GJ5o%2FHpsr0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="MarkerStylePicture">
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <colorMode>normal</colorMode>
+      </LabelStyle>
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=vMzvc3dTBl0r0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="MarkerStyleSound">
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <colorMode>normal</colorMode>
+      </LabelStyle>
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=poL0RfxWHTIr0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="MarkerStyleVideo">
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <colorMode>normal</colorMode>
+      </LabelStyle>
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=vMzvc3dTBl0r0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="MarkerStyleText">
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <colorMode>normal</colorMode>
+      </LabelStyle>
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><![CDATA[http://files.2bulu.com/f/d1?downParams=s2An6%2B3%2BIWUr0OBxohfNOA%3D%3D%0A]]>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder id="TbuluLineStringFolder">
+      <name>导航线</name>
+      <Placemark>
+        <name>导航线片段1</name>
+        <styleUrl>#LineStringStyle</styleUrl>
+        <description>
+          <div>通过“两步路”生成，http://www.2bulu.com</div>
+          <div>上传者:Wingnes</div>
+          <div>轨迹点数:69</div>
+          <div>本段里程:734.9715976135933米</div>
+        </description>
+        <LineString>
+          <coordinates>119.4347438285514,30.34204018644358,1113.1571 119.43481859220661,30.342083353222293,1111.7216 119.43483686237225,30.342161449248348,1111.1007 119.43488694453112,30.342247200869018,1112.4897 119.43498941843302,30.342282239201463,1113.5614 119.43509073406733,30.342336497431706,1114.9609 119.43517971021434,30.342401181439644,1110.1719 119.43528535330881,30.34239687022076,1111.732 119.43540111517238,30.342399448893246,1112.4723 119.43552119065929,30.342361929371684,1116.0973 119.43562106061742,30.342302331400447,1115.5894 119.43570322266523,30.342225176032233,1114.1785 119.4357952532862,30.342177271727817,1114.8743 119.4359089865857,30.34217411144903,1114.8367 119.43601198019036,30.34221723849733,1116.1146 119.43611584006351,30.342229163148644,1119.4286 119.43622517472035,30.342192097539222,1121.2694 119.43633647772867,30.342188808101746,1125.4954 119.43640589252404,30.342257888646596,1132.0692 119.43648287510793,30.34233285421779,1133.5376 119.43653983758765,30.34242258845837,1132.8188 119.43662253255334,30.342481150001408,1135.3645 119.43668964470379,30.34255053028022,1138.4167 119.43676686007848,30.342617811852815,1138.6776 119.43688815655612,30.342587289494983,1143.3574 119.43685208215561,30.342499057668682,1143.0349 119.43688906364827,30.3425992943662,1141.6431 119.43692367627172,30.34268866135935,1140.0186 119.43699267010396,30.342759806576314,1139.968 119.43708019759556,30.34282661065966,1141.7809 119.43714760887539,30.34290756091922,1140.2812 119.43724296867526,30.342947990875576,1139.3176 119.43735366893748,30.342975929801774,1136.0895 119.4374513894675,30.3430204537547,1137.6846 119.43754430092419,30.343066857924427,1136.7854 119.4376387571369,30.34311128203771,1137.9585 119.43773339416067,30.343152894963964,1137.8805 119.43782380342076,30.343203043062797,1136.5286 119.43793599186888,30.34323011122876,1137.0175 119.4380488286254,30.343252907185203,1141.8474 119.43815085531463,30.343291996887753,1141.188 119.43826820264049,30.34330695953572,1142.6697 119.43837617432791,30.343331644514617,1144.0118 119.43843741911758,30.343417881446776,1142.9518 119.43849651662053,30.343504133226983,1141.7616 119.43859221750509,30.343494525673258,1139.4115 119.43871249952569,30.34347430626249,1138.7936 119.43882712220848,30.34345936194445,1139.2762 119.43893761712803,30.343460783518246,1140.9713 119.4390346344851,30.343497119719448,1140.5399 119.43914879197071,30.343492612354574,1139.5188 119.43925662943613,30.34352217426991,1138.8905 119.43931309499693,30.343603237487436,1137.0027 119.43939760447861,30.343655688090887,1135.9539 119.43950059660024,30.343686299936348,1136.358 119.43958967973302,30.343745112146326,1137.0175 119.43968948622388,30.34378713192222,1136.6322 119.43979113584643,30.343769777561704,1135.3835 119.43989805758922,30.34373818226094,1134.2043 119.44002150461944,30.34372702479882,1134.2637 119.44013568301698,30.34376374212617,1135.2036 119.44022020397217,30.34383423573315,1136.7212 119.4403147300104,30.343890695543003,1137.2792 119.440379674889,30.34396719040796,1139.0908 119.44041471782434,30.344066979602427,1137.1765 119.44043192728357,30.34418178377824,1137.1395 119.44042960630173,30.344282454235955,1136.8953 119.44040943302251,30.34436812464646,1136.3986 119.44031924424972,30.344402543714583,1134.913</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
